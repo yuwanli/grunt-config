@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="222c2e04-1852-41cc-90a6-cd4982a13252" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -17,16 +16,16 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5829893">
+    <splitter split-orientation="horizontal" split-proportion="0.8652893">
       <split-first>
-        <splitter split-orientation="horizontal" split-proportion="0.85085225">
+        <splitter split-orientation="horizontal" split-proportion="0.8996176">
           <split-first>
             <leaf>
               <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
                 <entry file="file://$PROJECT_DIR$/README.md">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="420">
-                      <caret line="20" column="134" lean-forward="false" selection-start-line="20" selection-start-column="134" selection-end-line="20" selection-end-column="134" />
+                    <state relative-caret-position="377">
+                      <caret line="31" column="3" lean-forward="true" selection-start-line="31" selection-start-column="3" selection-end-line="31" selection-end-column="3" />
                       <folding />
                     </state>
                   </provider>
@@ -39,8 +38,8 @@
               <file leaf-file-name="gruntfile.js" pinned="false" current-in-tab="true">
                 <entry file="file://$PROJECT_DIR$/gruntfile.js">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="1544">
-                      <caret line="114" column="17" lean-forward="false" selection-start-line="114" selection-start-column="17" selection-end-line="114" selection-end-column="17" />
+                    <state relative-caret-position="1259">
+                      <caret line="106" column="30" lean-forward="true" selection-start-line="106" selection-start-column="30" selection-end-line="106" selection-end-column="30" />
                       <folding>
                         <element signature="e#239#544#0" expanded="false" />
                         <element signature="e#562#933#0" expanded="false" />
@@ -63,7 +62,7 @@
           <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/../README-master/README.md">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="287">
+                <state relative-caret-position="962">
                   <caret line="326" column="5" lean-forward="false" selection-start-line="326" selection-start-column="5" selection-end-line="326" selection-end-column="5" />
                   <folding />
                 </state>
@@ -231,12 +230,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1498885911945</updated>
-      <workItem from="1498885913376" duration="6186000" />
+      <workItem from="1498885913376" duration="7048000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6186000" />
+    <option name="totallyTimeSpent" value="7048000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="21" y="23" width="1407" height="809" extended-state="0" />
@@ -299,10 +298,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../README-master/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="962">
+          <caret line="326" column="5" lean-forward="false" selection-start-line="326" selection-start-column="5" selection-end-line="326" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/gruntfile.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1544">
-          <caret line="114" column="17" lean-forward="false" selection-start-line="114" selection-start-column="17" selection-end-line="114" selection-end-column="17" />
+        <state relative-caret-position="1259">
+          <caret line="106" column="30" lean-forward="true" selection-start-line="106" selection-start-column="30" selection-end-line="106" selection-end-column="30" />
           <folding>
             <element signature="e#239#544#0" expanded="false" />
             <element signature="e#562#933#0" expanded="false" />
@@ -315,18 +322,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../README-master/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="326" column="5" lean-forward="false" selection-start-line="326" selection-start-column="5" selection-end-line="326" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="20" column="134" lean-forward="false" selection-start-line="20" selection-start-column="134" selection-end-line="20" selection-end-column="134" />
+        <state relative-caret-position="377">
+          <caret line="31" column="3" lean-forward="true" selection-start-line="31" selection-start-column="3" selection-end-line="31" selection-end-column="3" />
           <folding />
         </state>
       </provider>
